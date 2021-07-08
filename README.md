@@ -14,9 +14,7 @@ lazy.add([your second function], [array of arguments]);
 ...
 ...
 
-const result = lazy.evaluate([array to evaluate])
-
-console.log(result);
+lazy.evaluate([array to evaluate])
 ```
 
 ## Example
